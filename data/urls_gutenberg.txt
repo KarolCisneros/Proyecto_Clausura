@@ -1,0 +1,11 @@
+# Listado de libros de Project Gutenberg (una URL por línea).
+# Formato: texto plano UTF-8 -> https://www.gutenberg.org/cache/epub/<ID>/pg<ID>.txt
+# Las líneas vacías y las que empiezan con # se ignoran. Se usan las primeras k.
+# El orden de las líneas = el orden de las filas de la matriz.
+
+https://www.gutenberg.org/cache/epub/46/pg46.txt
+https://www.gutenberg.org/cache/epub/98/pg98.txt
+https://www.gutenberg.org/cache/epub/1524/pg1524.txt
+https://www.gutenberg.org/cache/epub/1513/pg1513.txt
+https://www.gutenberg.org/cache/epub/730/pg730.txt
+https://www.gutenberg.org/cache/epub/1515/pg1515.txt
